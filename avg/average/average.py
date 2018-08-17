@@ -5,6 +5,7 @@ for n in range(num):
     total_sum += numbers
 avg = total_sum/num
 print('Average of ', num, ' numbers is :', avg)
+print('added new line')
 '''
 Created on 16-Aug-2018
 
